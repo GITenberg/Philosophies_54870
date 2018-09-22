@@ -1,0 +1,28 @@
+_repo: Philosophies_54870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ross, Ronald, Sir
+    aliases:
+    - Ross, Sir Ronald
+    - Ross, R. (Ronald), Sir
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '44647'
+    url: http://www.gutenberg.org/2009/agents/44647
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_Ross
+description: ''
+gutenberg_issued: '2017-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Philosophies
+url: http://www.gutenberg.org/ebooks/54870
